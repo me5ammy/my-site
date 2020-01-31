@@ -167,17 +167,17 @@ body {
   border-radius: 4px;
   background-color: #288be6;
   color: #ffffff;
+  margin-bottom: 20px;
 }
 
 .page-footer {
   padding: 40px 0;
   background-color: #00417d;
-  color: #ffffff;
 }
 
 .page-footer a {
   margin-left: 56px;
-  color: inherit;
+  color: #ffffff;
   text-decoration: none;
   background-repeat: no-repeat;
   background-position: left;
